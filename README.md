@@ -13,9 +13,7 @@ Análise e otimização de portfólio de investimentos em ativos financeiros uti
 ## 💻 Projeto
 Desenvolvido por: Tarcila Landin
 
-Para ver o projeto em tempo real:
-
-<a href="https://investment-portfolio-optimization.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a>
+<a href="https://investmentportfoliooptimization-o5vhuds6sz2efyimyspgpa.streamlit.app">Ver projeto em tempo real.</a>
 
 ## 👨‍💻 Tecnologias Utilizadas
 
