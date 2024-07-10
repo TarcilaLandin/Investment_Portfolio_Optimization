@@ -23,9 +23,3 @@ Utilizando **PYTHON** e as seguintes bibliotecas:
 > - Matplotlib
 > - yFinance
 > - SciPy
-
-### 📦 Instalação
-
-Para instalar as bibliotecas necessárias, execute:
-```bash
-pip install pandas numpy matplotlib yfinance scipy
